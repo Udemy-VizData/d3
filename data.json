@@ -1,0 +1,7 @@
+[
+  { "name": "Apples", "value": 10, "status": "ripe" },
+  { "name": "Bananas", "value": 5, "status": "ripe" },
+  { "name": "Cherries", "value": 8, "status": "unripe" },
+  { "name": "Pears", "value": 6, "status": "ripe" },
+  { "name": "Mangoes", "value": 3, "status": "unripe" }
+]
