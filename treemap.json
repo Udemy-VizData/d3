@@ -1,0 +1,10 @@
+{
+  "name": "Fruits",
+  "children": [
+    { "name": "Apples", "value": 10 },
+    { "name": "Bananas", "value": 5 },
+    { "name": "Cherries", "value": 8 },
+    { "name": "Pears", "value": 6 },
+    { "name": "Mangoes", "value": 3 }
+  ]
+}
