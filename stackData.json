@@ -1,0 +1,21 @@
+{
+  "name": "Food",
+  "children": [
+    {
+      "name": "Fruit",
+      "children": [
+        { "name": "Apple", "ripe": 6, "unripe": 4 },
+        { "name": "Banana", "ripe": 9, "unripe": 3 },
+        { "name": "Grapes", "ripe": 5, "unripe": 3 }
+      ]
+    },
+    {
+      "name": "Vegetables",
+      "children": [
+        { "name": "Carrot", "value": 9 },
+        { "name": "Potato", "value": 15 },
+        { "name": "Broccoli", "value": 7 }
+      ]
+    }
+  ]
+}
