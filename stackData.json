@@ -12,9 +12,9 @@
     {
       "name": "Vegetables",
       "children": [
-        { "name": "Carrot", "value": 9 },
-        { "name": "Potato", "value": 15 },
-        { "name": "Broccoli", "value": 7 }
+        { "name": "Carrot", "ripe": 5, "unripe": 4 },
+        { "name": "Potato", "ripe": 10, "unripe": 5 },
+        { "name": "Broccoli", "ripe": 3, "unripe": 4 }
       ]
     }
   ]
